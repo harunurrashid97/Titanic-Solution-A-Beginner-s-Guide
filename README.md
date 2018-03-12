@@ -1,5 +1,7 @@
 ## Titanic-Solution-A-Beginner-s-Guide
 ![Titanic-Solution-A-Beginner-s-Guide](https://www.kaggle.com/harunshimanto/titanic-solution-a-beginner-s-guide/notebook)
+https://www.reddit.com/user/Shimanto1220/comments/83x979/titanic_solution_for_beginners_guide/
+
 
 ## Contributing
 
